@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <title>2DO - A ToDo List App by Jaagrav</title>
+    <link href="./index.css" rel="stylesheet" />
+    <link href="./app.css" rel="stylesheet"/>
+  </head>
+  <body>
+    <img src="./button-icons/Quit.svg" class="quit-btn"/>
+    <div class="windowTopBar"></div>
+    <div class="container">      
+      <div class="branding-name">
+        2DO
+      </div>
+      <div class="add-item">
+        <input placeholder="Type Something..." type='text' class='item-text' />
+        <img src="./button-icons/Add.svg" class='add-btn'/>
+      </div>
+      <div class="items-container"></div>
+    </div>
+
+    <!-- You can also require other files to run in this process -->
+    <script src="./App.js"></script>
+  </body>
+</html>

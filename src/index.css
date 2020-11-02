@@ -1,0 +1,23 @@
+@import url('./fontQuicksand.ttf');
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('./fontQuicksand.ttf');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-user-drag: none;
+  font-family: 'Quicksand', sans-serif;
+}
+
+body {
+  background: #16212B;
+}
+
+
+::-webkit-scrollbar {
+  display: none;
+}

@@ -1,0 +1,99 @@
+.windowTopBar {
+    height: 32px;
+    width: calc(100% - 40px); /*In order to make the quit button clickable*/
+    position: fixed;
+    top: 0;left: 0;
+    -webkit-app-region: drag;
+}
+.quit-btn {
+    position: fixed;
+    margin: auto;
+    top: 0;
+    right: 0;
+    text-align: center;
+    cursor: pointer;
+    z-index: 3;
+}
+
+.container {
+    position: absolute;
+    height: 100%;
+    width: 80%;
+    max-width: 40pc;
+    margin: auto;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    padding-top: 30px;
+  }
+
+  .branding-name {
+    color: #90FF8D;
+    font-size: 3rem;
+    height: fit-content;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .add-item {
+    margin: 10px 0;
+    background-color: #90FF8D;
+    padding: 10px;
+    border-radius: 7px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: calc(100% - 50px) 50px;
+  }
+  
+  .item-text {
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    padding: 0 10px;
+  }
+  
+  .item-text::placeholder {
+    color: #000000;
+  }
+  
+  .add-btn {
+    margin: auto;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+  }
+  
+  .items-container {
+    height: fit-content;
+    width: 100%;
+    padding-top: 20px;
+  }
+  
+  .item {
+    background: #24313F;
+    display: grid;
+    grid-template-columns: 45px calc(100% - 80px) 35px; 
+    border-radius: 7px;
+    padding: 15px;
+    margin-bottom: 10px;
+    color: #90FF8D;
+  }
+  
+  .item img {
+    margin: auto;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+  }
+  
+  .edit-item {
+    color: #90FF8D;
+    outline: none;
+    font-size: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
