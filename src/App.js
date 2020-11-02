@@ -3,9 +3,9 @@ window.addEventListener('keydown',evt =>  {
     //Disabling Dev Tools Shortcuts
 })
 
-document.querySelector(".quit-btn").addEventListener('click', e => {
-    window.close();
-})
+//document.querySelector(".quit-btn").addEventListener('click', e => {
+//    window.close();
+//}) Not Commented on the release version, this function is responsible to close the program when the exit/quit button visible on desktop apps is clicked.
 
 //Todo List Logic begins below
 
