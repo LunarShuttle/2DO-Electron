@@ -50,4 +50,4 @@ Huge thanks to the following people for contributing to 2Do([emoji key](https://
 
 
 # 📄License
-2Do is open-source and is under the  [MIT License](https://github.com/LunarShuttle/2Do-Electron/blob/main/LICENSE).
+2Do is open-source and is under the  [MIT License](https://github.com/LunarShuttle/2Do-Electron/blob/master/LICENSE).
