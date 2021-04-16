@@ -41,7 +41,7 @@ Huge thanks to the following people for contributing to Gossip! ([emoji key](htt
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/jaagrav"><img src="https://avatars.githubusercontent.com/u/52719271?v=4" width="100px;" alt=""/><br /><sub><b>Shridhar</b></sub></a><br/>💻 📖 🚇 🚧</td>
+    <td align="center"><a href="https://github.com/jaagrav"><img src="https://avatars.githubusercontent.com/u/52719271?v=4" width="100px;" alt=""/><br /><sub><b>Jaagrav</b></sub></a><br/>💻 📖 🚇 🚧</td>
   </tr>
 </table>
 <!-- markdownlint-restore -->
