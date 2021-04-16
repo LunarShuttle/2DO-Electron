@@ -34,7 +34,7 @@ Pull requests are welcome! Please see our  [contributing guidelines](https://git
 ## All Contributors✨ 
 
 
-Huge thanks to the following people for contributing to Gossip! ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Huge thanks to the following people for contributing to 2Do([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
