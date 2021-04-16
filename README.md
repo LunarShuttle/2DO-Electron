@@ -3,19 +3,16 @@
 
 2Do is now a desktop app!
 ![2DO is now a desktop app!](https://user-images.githubusercontent.com/52719271/97878268-6b4b2300-1d44-11eb-85a6-00700094bae6.jpg)
-2DO is a Simple Todo List Desktop app which supports basic Todo list functions like Creating/Editing/Deleting Tasks and also striking them when a specific task is done. 
-# Introduction
-Gossip is a simple chat app. Once you login your name shows up and then you can click on the person's name to chat with him. 
 
+# Introduction
+2DO is a Simple Todo List Desktop app which supports basic Todo list functions like Creating/Editing/Deleting Tasks and also striking them when a specific task is done. 
 
 ## Dependencies
 
 These are the frameworks and libraries used in this project
 
 - [React](https://reactjs.org)
-- [Firebase](https://firebase.google.com/)
-- [Bootstrap](https://getbootstrap.com/)
-- [React Router](https://reactrouter.com/)
+- [
 
 
 ## Author
@@ -33,7 +30,24 @@ You can refer to the following articles on  **_basics of Git and Github in case 
 -   [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
 # Contribute
-Pull requests are welcome! Please see our  [contributing guidelines](https://github.com/LunarShuttle/Gossip-App/blob/main/CONTRIBUTING.md) for more details.
+Pull requests are welcome! Please see our  [contributing guidelines](https://github.com/LunarShuttle/2Do-Electron/blob/main/CONTRIBUTING.md) for more details.
 ## All Contributors✨ 
 
+
 Huge thanks to the following people for contributing to Gossip! ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/jaagrav"><img src="https://avatars.githubusercontent.com/u/52719271?v=4" width="100px;" alt=""/><br /><sub><b>Shridhar</b></sub></a><br/>💻 📖 🚇 🚧</td>
+  </tr>
+</table>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+# 📄License
+2Do is open-source and is under the  [MIT License](https://github.com/LunarShuttle/2Do-Electron/blob/main/LICENSE).
