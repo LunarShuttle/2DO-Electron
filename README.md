@@ -1,19 +1,14 @@
-# 2DO-Electron
-[Get 2Do for your PC](https://drive.google.com/file/d/1v77270ctI_8HF8SRg9OwTTqkOOgkJSVY/view?usp=sharing)
-
-2Do is now a desktop app!
-![2DO is now a desktop app!](https://user-images.githubusercontent.com/52719271/97878268-6b4b2300-1d44-11eb-85a6-00700094bae6.jpg)
-
 # Introduction
 2DO is a Simple Todo List Desktop app which supports basic Todo list functions like Creating/Editing/Deleting Tasks and also striking them when a specific task is done. 
+![2Do](https://user-images.githubusercontent.com/52719271/97878268-6b4b2300-1d44-11eb-85a6-00700094bae6.jpg)
+
+[Get 2Do for your PC](https://drive.google.com/file/d/1v77270ctI_8HF8SRg9OwTTqkOOgkJSVY/view?usp=sharing)
 
 ## Dependencies
 
 These are the frameworks and libraries used in this project
 
-- [React](https://reactjs.org)
-- [
-
+- [Electron](https://www.electronjs.org/)
 
 ## Author
 
