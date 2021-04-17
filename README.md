@@ -25,7 +25,7 @@ You can refer to the following articles on  **_basics of Git and Github in case 
 -   [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
 # Contribute
-Pull requests are welcome! Please see our  [contributing guidelines](https://github.com/LunarShuttle/2Do-Electron/blob/main/CONTRIBUTING.md) for more details.
+Pull requests are welcome! Please see our  [contributing guidelines](https://github.com/LunarShuttle/2Do-Electron/blob/master/CONTRIBUTING.md) for more details.
 ## All Contributors✨ 
 
 
